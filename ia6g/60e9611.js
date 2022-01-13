@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{378:function(e,n,t){"use strict";t.r(n);var o={name:"BlogPage",created:function(){console.log(this.$route)}},l=t(46),component=Object(l.a)(o,(function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",{staticClass:"container"},[e._v("this is blog page")])}),[],!1,null,null,null);n.default=component.exports}}]);
